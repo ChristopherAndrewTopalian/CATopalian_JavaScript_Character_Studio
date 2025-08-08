@@ -3,6 +3,8 @@ Allows the person to easily set up scenes with texture characters and texture an
 
 > #
 
+VIDEO: https://www.youtube.com/watch?v=M3kGdxYry1E  
+
 ![001](src/media/textures/screenshots/001.PNG)  
 
 ![002](src/media/textures/screenshots/002.PNG)  
