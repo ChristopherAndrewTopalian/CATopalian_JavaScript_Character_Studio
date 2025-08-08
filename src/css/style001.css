@@ -1,0 +1,68 @@
+/* style001.css */
+
+body
+{
+    margin: 0px;
+    background-color: rgb(40, 40, 40);
+    overflow: hidden;
+    color: rgb(255, 255, 255);
+}
+
+div
+{
+    text-shadow: 0px 1px 1px rgb(0, 0, 0);
+}
+
+button
+{
+    background: rgb(0, 0, 0);
+    font-size: 15px;
+    color: rgb(100, 100, 100);
+    border: solid 1px rgb(100, 100, 100);
+    border-radius: 8px;
+    cursor: pointer;
+    z-index: 2;
+    align-self: flex-start;
+}
+
+button:hover
+{
+    border-color: rgb(0, 255, 255);
+    color: rgb(0, 255, 255);
+}
+
+button:active
+{
+    color: rgb(255, 0, 255);
+}
+
+.dropZone
+{
+    width: 35px;
+    height: 20px;
+    border: 2px dashed rgb(100, 100, 100);
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.dropZone:hover
+{
+    border-color: rgb(0, 200, 255);
+}
+
+.dropZone:active
+{
+    border-color: rgb(200, 50, 200);
+}
+
+/*----*/
+
+/* Dedicated to God the Father */
+/* All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025 */
+/* https://github.com/ChristopherTopalian */
+/* https://github.com/ChristopherAndrewTopalian */
+/* https://sites.google.com/view/CollegeOfScripting */
+
